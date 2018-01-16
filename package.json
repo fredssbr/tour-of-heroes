@@ -1,0 +1,24 @@
+{
+  "name": "tour-of-heroes",
+  "version": "1.0.0",
+  "description": "Official tutorial project from Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredssbr/tour-of-heroes.git"
+  },
+  "keywords": [
+    "angular",
+    "tour-of-heroes",
+    "tutorial"
+  ],
+  "author": "fredericochopin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredssbr/tour-of-heroes/issues"
+  },
+  "homepage": "https://github.com/fredssbr/tour-of-heroes#readme"
+}
